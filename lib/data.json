@@ -1,7 +1,5 @@
 {
   "desc": "Get started by editing a file...",
   "link": "https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app",
-  "docs": "https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app",
-  "learn": "https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app",
   "next_logo": "/next.svg"
 }
